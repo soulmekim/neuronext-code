@@ -1,0 +1,26 @@
+PATH OF DATASET:
+/ctfmeg/ACQ_Data/20190722/sub-001_ses-001_task-compr_meg.ds
+
+
+NUMBER OF CLASSES:
+1
+
+
+CLASSGROUPID:
+3
+NAME:
+BAD
+COMMENT:
+Generic bad trial classification
+COLOR:
+Red
+EDITABLE:
+Yes
+CLASSID:
+1
+NUMBER OF TRIALS:
+0
+LIST OF TRIALS:
+TRIAL NUMBER
+
+

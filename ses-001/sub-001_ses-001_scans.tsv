@@ -1,0 +1,5 @@
+filename	acq_time
+anat/sub-001_T1w.nii.gz	n/a
+anat/sub-001_space-CTF_T1w.nii.gz	n/a
+meg/sub-001_ses-001_task-compr_meg.ds	n/a
+meg/sub-001_ses-001_task-emptyroom_meg.ds	n/a
