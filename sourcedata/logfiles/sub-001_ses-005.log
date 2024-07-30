@@ -1,0 +1,314 @@
+Scenario - lstm
+Logfile written - 07/26/2019 07:52:49
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+sub001-ses005	0	Text Input	sub001	60781	60781	0
+sub001-ses005	0	Text Input	5	141981	141981	0
+sub001-ses005	1	Sound	111	141991	0	1370			0		other	0
+sub001-ses005	1	Pause		224940	82949	NA	84479
+sub001-ses005	1	Resume		224940	82949	NA
+sub001-ses005	1	Response	4	234940	92949	0
+sub001-ses005	2	Response	B	409789	174724	1
+sub001-ses005	2	Response	C	427834	192769	1
+sub001-ses005	3	Response	B	439051	10958	1
+sub001-ses005	4	Response	B	469546	26367	1
+sub001-ses005	6	Sound	10	479600	0	2			0		other	0
+sub001-ses005	7	Picture	15	4643957	0	1	10085	2	0	next	other	0
+sub001-ses005	8	Picture	17	4654042	0	1	72344	2	0	next	hit	14
+sub001-ses005	8	Response	C	4726334	72292	1
+sub001-ses005	9	Picture	18	4726386	0	1	83	1	0	next	other	0
+sub001-ses005	9	Response	C	4757727	31341	1
+sub001-ses005	9	Response	C	4761215	34830	1
+sub001-ses005	9	Response	B	4776210	49824	1
+sub001-ses005	10	Picture	19	4776310	0	1	83	1	0	next	other	0
+sub001-ses005	10	Response	A	4811394	35084	1
+sub001-ses005	10	Response	B	4855981	79671	1
+sub001-ses005	11	Response	B	4881004	24933	1
+sub001-ses005	12	Sound	100	4881005	0	2			0		other	0
+sub001-ses005	13	Picture	150	5170951	0	1	10085	2	0	next	other	0
+sub001-ses005	14	Response	B	5245456	64420	1
+sub001-ses005	15	Sound	100	5245456	0	2			0		other	0
+sub001-ses005	16	Picture	150	5535087	0	1	10085	2	0	next	other	0
+sub001-ses005	17	Response	B	5729536	184365	1
+sub001-ses005	18	Response	B	5781141	46609	1
+sub001-ses005	20	Sound	20	5791207	0	2			0		other	0
+sub001-ses005	21	Picture	25	11241915	0	1	10085	2	0	next	other	0
+sub001-ses005	22	Picture	27	11252000	0	1	76094	2	0	next	incorrect	33
+sub001-ses005	22	Response	A	11327978	75978	1
+sub001-ses005	23	Picture	28	11328094	0	1	83	2	0	next	other	0
+sub001-ses005	23	Response	C	11348168	20074	1
+sub001-ses005	23	Response	C	11350871	22777	1
+sub001-ses005	23	Response	C	11353380	25286	1
+sub001-ses005	23	Response	B	11356198	28104	1
+sub001-ses005	24	Picture	29	11356348	0	1	83	1	0	next	other	0
+sub001-ses005	24	Response	C	11367724	11376	1
+sub001-ses005	24	Response	C	11371381	15032	1
+sub001-ses005	24	Response	C	11374444	18095	1
+sub001-ses005	24	Response	B	11377448	21100	1
+sub001-ses005	25	Response	B	11403115	25514	1
+sub001-ses005	26	Sound	100	11403116	0	2			0		other	0
+sub001-ses005	27	Picture	150	11692647	0	1	10085	1	0	next	other	0
+sub001-ses005	28	Response	B	11749826	47094	1
+sub001-ses005	29	Sound	100	11749826	0	2			0		other	0
+sub001-ses005	30	Picture	150	12039447	0	1	10085	1	0	next	other	0
+sub001-ses005	31	Response	B	12388951	339419	1
+sub001-ses005	32	Response	B	12431917	39503	1
+sub001-ses005	34	Sound	30	12442004	0	2			0		other	0
+sub001-ses005	35	Picture	35	15930176	0	1	10085	2	0	next	other	0
+sub001-ses005	36	Picture	37	15940261	0	1	106849	2	0	next	incorrect	55
+sub001-ses005	36	Response	A	16047026	106765	1
+sub001-ses005	37	Picture	38	16047110	0	1	83	2	0	next	other	0
+sub001-ses005	37	Response	C	16062744	15634	1
+sub001-ses005	37	Response	C	16065553	18443	1
+sub001-ses005	37	Response	C	16067648	20538	1
+sub001-ses005	37	Response	B	16070485	23375	1
+sub001-ses005	38	Picture	39	16070613	0	1	83	1	0	next	other	0
+sub001-ses005	38	Response	C	16082231	11618	1
+sub001-ses005	38	Response	C	16085498	14885	1
+sub001-ses005	38	Response	C	16090069	19455	1
+sub001-ses005	38	Response	B	16092732	22119	1
+sub001-ses005	39	Response	B	16113006	20139	1
+sub001-ses005	40	Sound	100	16113006	0	2			0		other	0
+sub001-ses005	41	Picture	150	16402661	0	1	10085	1	0	next	other	0
+sub001-ses005	42	Response	B	16489318	76572	1
+sub001-ses005	43	Sound	100	16489319	0	2			0		other	0
+sub001-ses005	44	Picture	150	16778966	0	1	10085	1	0	next	other	0
+sub001-ses005	45	Response	B	17248768	459717	1
+sub001-ses005	46	Response	B	17268872	16171	1
+sub001-ses005	48	Sound	40	17278954	0	2			0		other	0
+sub001-ses005	49	Picture	45	21226942	0	1	10085	2	0	next	other	0
+sub001-ses005	50	Picture	47	21237027	0	1	70677	2	0	next	incorrect	77
+sub001-ses005	50	Response	B	21307596	70569	1
+sub001-ses005	51	Picture	48	21307703	0	1	83	2	0	next	other	0
+sub001-ses005	51	Response	C	21327909	20205	1
+sub001-ses005	51	Response	C	21330555	22851	1
+sub001-ses005	51	Response	C	21333304	25601	1
+sub001-ses005	51	Response	B	21336577	28873	1
+sub001-ses005	52	Picture	49	21336708	0	1	83	1	0	next	other	0
+sub001-ses005	52	Response	C	21346983	10275	1
+sub001-ses005	52	Response	C	21349813	13106	1
+sub001-ses005	52	Response	A	21388286	51578	1
+sub001-ses005	52	Response	B	21394208	57500	1
+sub001-ses005	53	Response	B	21429018	34719	1
+sub001-ses005	54	Sound	100	21429019	0	2			0		other	0
+sub001-ses005	55	Picture	150	21718596	0	1	10085	2	0	next	other	0
+sub001-ses005	56	Response	B	21806281	77600	1
+sub001-ses005	57	Sound	100	21806281	0	2			0		other	0
+sub001-ses005	58	Picture	150	22095901	0	1	10085	1	0	next	other	0
+sub001-ses005	59	Response	B	22361279	255293	1
+sub001-ses005	60	Response	B	22381933	14076	1
+sub001-ses005	62	Sound	50	22392026	0	2			0		other	0
+sub001-ses005	63	Picture	55	29030403	0	1	10085	2	0	next	other	0
+sub001-ses005	64	Picture	57	29040488	0	1	80678	2	0	next	hit	99
+sub001-ses005	64	Response	C	29121110	80622	1
+sub001-ses005	65	Picture	58	29121167	0	1	83	2	0	next	other	0
+sub001-ses005	65	Response	C	29135618	14451	1
+sub001-ses005	65	Response	C	29138928	17762	1
+sub001-ses005	65	Response	C	29141146	19979	1
+sub001-ses005	65	Response	B	29143722	22556	1
+sub001-ses005	66	Picture	59	29143837	0	1	83	1	0	next	other	0
+sub001-ses005	66	Response	C	29150766	6929	1
+sub001-ses005	66	Response	C	29157364	13527	1
+sub001-ses005	66	Response	C	29160951	17115	1
+sub001-ses005	66	Response	B	29163660	19823	1
+sub001-ses005	67	Response	B	29234127	70371	1
+sub001-ses005	68	Sound	100	29234128	0	2			0		other	0
+sub001-ses005	69	Picture	150	29523808	0	1	10085	1	0	next	other	0
+sub001-ses005	70	Response	B	29637705	103812	1
+sub001-ses005	71	Sound	100	29637705	0	2			0		other	0
+sub001-ses005	72	Picture	150	29927283	0	1	10085	2	0	next	other	0
+sub001-ses005	73	Response	B	30332633	395265	1
+sub001-ses005	74	Response	B	30348693	11267	1
+sub001-ses005	76	Sound	60	30358761	0	2			0		other	0
+sub001-ses005	77	Picture	65	35258721	0	1	10085	2	0	next	other	0
+sub001-ses005	78	Picture	67	35268806	0	1	59842	2	0	next	hit	121
+sub001-ses005	78	Response	C	35328578	59772	1
+sub001-ses005	79	Picture	68	35328648	0	1	83	1	0	next	other	0
+sub001-ses005	79	Response	C	35441832	113185	1
+sub001-ses005	79	Response	C	35445598	116950	1
+sub001-ses005	79	Response	C	35448780	120132	1
+sub001-ses005	79	Response	B	35451955	123307	1
+sub001-ses005	80	Picture	69	35452082	0	1	83	1	0	next	other	0
+sub001-ses005	80	Response	C	35462719	10637	1
+sub001-ses005	80	Response	C	35465390	13308	1
+sub001-ses005	80	Response	C	35467763	15680	1
+sub001-ses005	80	Response	B	35478028	25945	1
+sub001-ses005	81	Response	B	35490169	12000	1
+sub001-ses005	82	Sound	100	35490170	0	2			0		other	0
+sub001-ses005	83	Picture	150	35780130	0	1	10085	2	0	next	other	0
+sub001-ses005	84	Response	B	35823821	33606	1
+sub001-ses005	85	Sound	100	35823821	0	2			0		other	0
+sub001-ses005	86	Picture	150	36113428	0	1	10085	1	0	next	other	0
+sub001-ses005	87	Response	B	36195815	72302	1
+sub001-ses005	88	Picture	S&S_APP_Q01	36195857	0	1	83	2	0	next	other	0
+sub001-ses005	88	Response	C	36207450	11593	1
+sub001-ses005	88	Response	C	36209813	13956	1
+sub001-ses005	88	Response	C	36212040	16183	1
+sub001-ses005	88	Response	B	36214569	18713	1
+sub001-ses005	89	Picture	S&S_APP_Q02	36214693	0	1	83	1	0	next	other	0
+sub001-ses005	89	Response	A	36246226	31533	1
+sub001-ses005	89	Response	B	36249359	34666	1
+sub001-ses005	90	Picture	S&S_APP_Q03	36249448	0	1	83	1	0	next	other	0
+sub001-ses005	90	Response	A	36262316	12869	1
+sub001-ses005	90	Response	A	36264819	15371	1
+sub001-ses005	90	Response	A	36268179	18731	1
+sub001-ses005	90	Response	B	36270886	21438	1
+sub001-ses005	91	Picture	S&S_APP_Q04	36271034	0	1	83	1	0	next	other	0
+sub001-ses005	91	Response	C	36293196	22162	1
+sub001-ses005	91	Response	C	36300792	29758	1
+sub001-ses005	91	Response	B	36303533	32498	1
+sub001-ses005	92	Picture	S&S_APP_Q05	36303622	0	1	83	1	0	next	other	0
+sub001-ses005	92	Response	C	36312612	8990	1
+sub001-ses005	92	Response	C	36320962	17339	1
+sub001-ses005	92	Response	B	36324274	20652	1
+sub001-ses005	93	Picture	S&S_APP_Q06	36324375	0	1	83	1	0	next	other	0
+sub001-ses005	93	Response	A	36334140	9764	1
+sub001-ses005	93	Response	A	36337096	12721	1
+sub001-ses005	93	Response	A	36342262	17887	1
+sub001-ses005	93	Response	B	36345633	21257	1
+sub001-ses005	94	Picture	S&S_APP_Q07	36345795	0	1	83	1	0	next	other	0
+sub001-ses005	94	Response	C	36357891	12096	1
+sub001-ses005	94	Response	C	36360228	14433	1
+sub001-ses005	94	Response	C	36363962	18167	1
+sub001-ses005	94	Response	B	36367834	22039	1
+sub001-ses005	95	Picture	S&S_APP_Q08	36367965	0	1	83	1	0	next	other	0
+sub001-ses005	95	Response	C	36376938	8973	1
+sub001-ses005	95	Response	C	36380014	12049	1
+sub001-ses005	95	Response	C	36382866	14901	1
+sub001-ses005	95	Response	B	36385999	18034	1
+sub001-ses005	96	Picture	S&S_APP_Q09	36386134	0	1	83	1	0	next	other	0
+sub001-ses005	96	Response	C	36398165	12031	1
+sub001-ses005	96	Response	C	36401355	15221	1
+sub001-ses005	96	Response	C	36409029	22895	1
+sub001-ses005	96	Response	A	36418880	32746	1
+sub001-ses005	96	Response	B	36424257	38123	1
+sub001-ses005	97	Picture	S&S_APP_Q10	36424390	0	1	83	1	0	next	other	0
+sub001-ses005	97	Response	C	36433113	8723	1
+sub001-ses005	97	Response	C	36436279	11890	1
+sub001-ses005	97	Response	C	36438943	14553	1
+sub001-ses005	97	Response	B	36441272	16882	1
+sub001-ses005	98	Picture	S&S_APP_Q11	36441392	0	1	83	1	0	next	other	0
+sub001-ses005	98	Response	C	36448933	7540	1
+sub001-ses005	98	Response	C	36453781	12388	1
+sub001-ses005	98	Response	C	36456806	15414	1
+sub001-ses005	98	Response	B	36459988	18596	1
+sub001-ses005	99	Picture	S&S_APP_Q12	36460145	0	1	83	1	0	next	other	0
+sub001-ses005	99	Response	A	36472853	12708	1
+sub001-ses005	99	Response	A	36479031	18886	1
+sub001-ses005	99	Response	A	36482059	21914	1
+sub001-ses005	99	Response	B	36487079	26934	1
+sub001-ses005	100	Picture	S&S_APP_Q13	36487232	0	1	83	1	0	next	other	0
+sub001-ses005	100	Response	C	36498304	11072	1
+sub001-ses005	100	Response	C	36501068	13836	1
+sub001-ses005	100	Response	C	36503804	16572	1
+sub001-ses005	100	Response	B	36507026	19794	1
+sub001-ses005	101	Picture	S&S_APP_Q14	36507152	0	1	83	1	0	next	other	0
+sub001-ses005	101	Response	C	36520060	12908	1
+sub001-ses005	101	Response	C	36534549	27397	1
+sub001-ses005	101	Response	C	36543897	36745	1
+sub001-ses005	101	Response	B	36546594	39442	1
+sub001-ses005	102	Picture	S&S_APP_Q15	36546741	0	1	83	1	0	next	other	0
+sub001-ses005	102	Response	C	36583242	36501	2
+sub001-ses005	102	Response	B	36607711	60970	1
+sub001-ses005	103	Picture	S&S_APP_Q16	36607833	0	1	83	1	0	next	other	0
+sub001-ses005	103	Response	C	36626930	19097	1
+sub001-ses005	103	Response	C	36631773	23940	1
+sub001-ses005	103	Response	C	36635196	27363	1
+sub001-ses005	103	Response	B	36638013	30180	1
+sub001-ses005	104	Picture	S&S_APP_Q17	36638171	0	1	83	1	0	next	other	0
+sub001-ses005	104	Response	A	36655043	16872	1
+sub001-ses005	104	Response	B	36665701	27531	1
+sub001-ses005	105	Picture	S&S_APP_Q18	36665841	0	1	83	1	0	next	other	0
+sub001-ses005	105	Response	C	36680717	14876	1
+sub001-ses005	105	Response	C	36683510	17669	1
+sub001-ses005	105	Response	C	36686130	20289	1
+sub001-ses005	105	Response	B	36689510	23668	1
+sub001-ses005	106	Picture	S&S_APP_Q19	36689595	0	1	83	1	0	next	other	0
+sub001-ses005	106	Response	A	36708723	19129	1
+sub001-ses005	106	Response	B	36738241	48646	1
+sub001-ses005	107	Picture	S&S_APP_Q20	36738352	0	1	83	1	0	next	other	0
+sub001-ses005	107	Response	C	36755050	16698	1
+sub001-ses005	107	Response	C	36758250	19898	1
+sub001-ses005	107	Response	C	36760696	22344	1
+sub001-ses005	107	Response	B	36763357	25005	1
+sub001-ses005	108	Response	4	37115503	351981	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	111	other				141991	1370			0
+Sound	10	other				479600	2			0
+Picture	15	other				4643957	1	10085	2	0	next
+Picture	17	hit	3	72292	1	4654042	1	72344	2	0	next
+Picture	18	other				4726386	1	83	1	0	next
+Picture	19	other				4776310	1	83	1	0	next
+Sound	100	other				4881005	2			0
+Picture	150	other				5170951	1	10085	2	0	next
+Sound	100	other				5245456	2			0
+Picture	150	other				5535087	1	10085	2	0	next
+Sound	20	other				5791207	2			0
+Picture	25	other				11241915	1	10085	2	0	next
+Picture	27	incorrect	1	75978	1	11252000	1	76094	2	0	next
+Picture	28	other				11328094	1	83	2	0	next
+Picture	29	other				11356348	1	83	1	0	next
+Sound	100	other				11403116	2			0
+Picture	150	other				11692647	1	10085	1	0	next
+Sound	100	other				11749826	2			0
+Picture	150	other				12039447	1	10085	1	0	next
+Sound	30	other				12442004	2			0
+Picture	35	other				15930176	1	10085	2	0	next
+Picture	37	incorrect	1	106765	1	15940261	1	106849	2	0	next
+Picture	38	other				16047110	1	83	2	0	next
+Picture	39	other				16070613	1	83	1	0	next
+Sound	100	other				16113006	2			0
+Picture	150	other				16402661	1	10085	1	0	next
+Sound	100	other				16489319	2			0
+Picture	150	other				16778966	1	10085	1	0	next
+Sound	40	other				17278954	2			0
+Picture	45	other				21226942	1	10085	2	0	next
+Picture	47	incorrect	2	70569	2	21237027	1	70677	2	0	next
+Picture	48	other				21307703	1	83	2	0	next
+Picture	49	other				21336708	1	83	1	0	next
+Sound	100	other				21429019	2			0
+Picture	150	other				21718596	1	10085	2	0	next
+Sound	100	other				21806281	2			0
+Picture	150	other				22095901	1	10085	1	0	next
+Sound	50	other				22392026	2			0
+Picture	55	other				29030403	1	10085	2	0	next
+Picture	57	hit	3	80622	1	29040488	1	80678	2	0	next
+Picture	58	other				29121167	1	83	2	0	next
+Picture	59	other				29143837	1	83	1	0	next
+Sound	100	other				29234128	2			0
+Picture	150	other				29523808	1	10085	1	0	next
+Sound	100	other				29637705	2			0
+Picture	150	other				29927283	1	10085	2	0	next
+Sound	60	other				30358761	2			0
+Picture	65	other				35258721	1	10085	2	0	next
+Picture	67	hit	3	59772	1	35268806	1	59842	2	0	next
+Picture	68	other				35328648	1	83	1	0	next
+Picture	69	other				35452082	1	83	1	0	next
+Sound	100	other				35490170	2			0
+Picture	150	other				35780130	1	10085	2	0	next
+Sound	100	other				35823821	2			0
+Picture	150	other				36113428	1	10085	1	0	next
+Picture	S&S_APP_Q01	other				36195857	1	83	2	0	next
+Picture	S&S_APP_Q02	other				36214693	1	83	1	0	next
+Picture	S&S_APP_Q03	other				36249448	1	83	1	0	next
+Picture	S&S_APP_Q04	other				36271034	1	83	1	0	next
+Picture	S&S_APP_Q05	other				36303622	1	83	1	0	next
+Picture	S&S_APP_Q06	other				36324375	1	83	1	0	next
+Picture	S&S_APP_Q07	other				36345795	1	83	1	0	next
+Picture	S&S_APP_Q08	other				36367965	1	83	1	0	next
+Picture	S&S_APP_Q09	other				36386134	1	83	1	0	next
+Picture	S&S_APP_Q10	other				36424390	1	83	1	0	next
+Picture	S&S_APP_Q11	other				36441392	1	83	1	0	next
+Picture	S&S_APP_Q12	other				36460145	1	83	1	0	next
+Picture	S&S_APP_Q13	other				36487232	1	83	1	0	next
+Picture	S&S_APP_Q14	other				36507152	1	83	1	0	next
+Picture	S&S_APP_Q15	other				36546741	1	83	1	0	next
+Picture	S&S_APP_Q16	other				36607833	1	83	1	0	next
+Picture	S&S_APP_Q17	other				36638171	1	83	1	0	next
+Picture	S&S_APP_Q18	other				36665841	1	83	1	0	next
+Picture	S&S_APP_Q19	other				36689595	1	83	1	0	next
+Picture	S&S_APP_Q20	other				36738352	1	83	1	0	next

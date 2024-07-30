@@ -1,0 +1,24 @@
+Logfile written - 07/16/2019 15:17:02
+Subject: sub003
+
+APP_count	Quest_nr	QuestCodeName	APPscore	APPcontrol
+1	1	Q01	6	APP: question 1 
+2	2	Q02	4	APP: question 2 
+3	3	Q03	3	APP: question 3 
+4	4	Q04	3	APP: question 4 
+5	5	Q05	6	APP: question 5 
+6	6	Q06	2	APP: question 6 
+7	7	Q07	6	APP: question 7 
+8	8	Q08	5	APP: question 8 
+9	9	Q09	5	APP: question 9 
+10	10	Q10	5	APP: question 10 
+11	11	Q11	6	APP: question 11 
+12	12	Q12	3	APP: question 12 
+13	13	Q13	4	APP: question 13 
+14	14	Q14	3	APP: question 14 
+15	15	Q15	5	APP: question 15 
+16	16	Q16	6	APP: question 16 
+17	17	Q17	6	APP: question 17 
+18	18	Q18	6	APP: question 18 
+19	19	Q19	3	APP: question 19 
+20	20	Q20	6	APP: question 20 

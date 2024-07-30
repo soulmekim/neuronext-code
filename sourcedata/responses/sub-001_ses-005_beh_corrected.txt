@@ -1,0 +1,2 @@
+date	time	story nr.	session nr.	response	correct	ishit	absorption_score	density_score
+07/26/2019	07/26/2019 07:50:04	5	6	B	B	1	7	7

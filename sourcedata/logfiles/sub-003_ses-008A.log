@@ -1,0 +1,78 @@
+Scenario - lstm
+Logfile written - 07/18/2019 11:37:24
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+sub003-ses008	0	Text Input	sub003	54877	54877	0
+sub003-ses008	0	Text Input	8	153356	153356	0
+sub003-ses008	1	Sound	111	153367	0	1028			0		other	0
+sub003-ses008	1	Pause		249835	96468	NA	142078
+sub003-ses008	1	Resume		249835	96468	NA
+sub003-ses008	1	Response	4	255275	101908	0
+sub003-ses008	2	Response	B	285686	30293	1
+sub003-ses008	2	Response	C	289723	34330	1
+sub003-ses008	3	Response	B	352624	62726	1
+sub003-ses008	4	Response	B	367124	10967	1
+sub003-ses008	6	Sound	10	377159	0	1			0		other	0
+sub003-ses008	7	Picture	15	4815038	0	1	10085	1	0	next	other	0
+sub003-ses008	8	Picture	17	4825122	0	1	48924	2	0	next	incorrect	14
+sub003-ses008	8	Response	B	4873967	48844	1
+sub003-ses008	9	Picture	18	4874046	0	1	83	1	0	next	other	0
+sub003-ses008	9	Response	A	4885864	11819	1
+sub003-ses008	9	Response	B	4891140	17094	1
+sub003-ses008	10	Picture	19	4891298	0	1	83	1	0	next	other	0
+sub003-ses008	10	Response	C	4909310	18012	1
+sub003-ses008	10	Response	A	4918856	27558	1
+sub003-ses008	10	Response	B	4921365	30067	1
+sub003-ses008	11	Response	B	4930643	9174	1
+sub003-ses008	12	Sound	100	4930644	0	1			0		other	0
+sub003-ses008	13	Picture	150	5220262	0	1	10085	2	0	next	other	0
+sub003-ses008	14	Response	B	5246127	15781	1
+sub003-ses008	15	Sound	100	5246128	0	1			0		other	0
+sub003-ses008	16	Picture	150	5535723	0	1	10085	2	0	next	other	0
+sub003-ses008	17	Response	B	5724806	178998	1
+sub003-ses008	18	Response	B	5736082	7165	1
+sub003-ses008	20	Sound	20	5746168	0	2			0		other	0
+sub003-ses008	21	Picture	25	10858301	0	1	10085	1	0	next	other	0
+sub003-ses008	22	Picture	27	10868386	0	1	68926	2	0	next	incorrect	33
+sub003-ses008	22	Response	B	10937247	68861	1
+sub003-ses008	23	Picture	28	10937312	0	1	83	1	0	next	other	0
+sub003-ses008	23	Response	C	10949980	12668	1
+sub003-ses008	23	Response	B	10954339	17027	1
+sub003-ses008	24	Picture	29	10954481	0	1	83	1	0	next	other	0
+sub003-ses008	24	Response	C	10971553	17072	1
+sub003-ses008	24	Response	C	10975065	20584	1
+sub003-ses008	24	Response	B	10982829	28348	1
+sub003-ses008	25	Response	B	10991796	8811	1
+sub003-ses008	26	Sound	100	10991797	0	1			0		other	0
+sub003-ses008	27	Picture	150	11281443	0	1	10085	1	0	next	other	0
+sub003-ses008	28	Response	B	11318453	26925	1
+sub003-ses008	29	Sound	100	11318453	0	1			0		other	0
+sub003-ses008	30	Picture	150	11607989	0	1	10085	1	0	next	other	0
+sub003-ses008	31	Response	B	12303973	685900	1
+sub003-ses008	32	Response	B	12314329	6077	1
+sub003-ses008	34	Sound	30	12324421	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	111	other				153367	1028			0
+Sound	10	other				377159	1			0
+Picture	15	other				4815038	1	10085	1	0	next
+Picture	17	incorrect	2	48844	1	4825122	1	48924	2	0	next
+Picture	18	other				4874046	1	83	1	0	next
+Picture	19	other				4891298	1	83	1	0	next
+Sound	100	other				4930644	1			0
+Picture	150	other				5220262	1	10085	2	0	next
+Sound	100	other				5246128	1			0
+Picture	150	other				5535723	1	10085	2	0	next
+Sound	20	other				5746168	2			0
+Picture	25	other				10858301	1	10085	1	0	next
+Picture	27	incorrect	2	68861	1	10868386	1	68926	2	0	next
+Picture	28	other				10937312	1	83	1	0	next
+Picture	29	other				10954481	1	83	1	0	next
+Sound	100	other				10991797	1			0
+Picture	150	other				11281443	1	10085	1	0	next
+Sound	100	other				11318453	1			0
+Picture	150	other				11607989	1	10085	1	0	next
+Sound	30	other				12324421	2			0

@@ -1,0 +1,11 @@
+Scenario - lstm
+Logfile written - 07/18/2019 11:40:41
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+sub003-ses008B	0	Text Input	sub003	61322	61322	0
+sub003-ses008B	0	Quit		150282	150282	NA
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
